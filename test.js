@@ -1,6 +1,9 @@
-const { TestWatcher } = require('@jest/core');
-const { runApp } = require('./my_ciphering_cli');
+// const WriteStream = require('./write-Stream.js');
+// const { describe } = require('yargs');
+// const { test, expect } = require('@jest/globals');
 
-describe('Test validation', () => {
-  test('')
-});
+// describe('WriteStream', () => {
+//   test('should return correct object', () => {
+//     expect(new WriteStream('output.txt')).toEqual('zyx');
+//   })
+// });
