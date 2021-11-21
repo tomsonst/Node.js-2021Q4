@@ -1,0 +1,23 @@
+{
+  "name": "node.js-2021q4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomsonst/Node.js-2021Q4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomsonst/Node.js-2021Q4/issues"
+  },
+  "homepage": "https://github.com/tomsonst/Node.js-2021Q4#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
